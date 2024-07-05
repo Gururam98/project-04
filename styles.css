@@ -1,0 +1,13 @@
+body {
+ background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyl-gshW2gdMyk-6-xyNd5sC05FCoGYLjTA&s) ;background: cover;
+
+}
+h1{
+    color: rgb(8, 21, 21);
+    margin: yellow;
+    background-color: rgb(218, 145, 36);
+}
+h2{
+    color:white;
+    background-color: white;
+}
